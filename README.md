@@ -1,16 +1,18 @@
-### Hi there 👋
 
 
-**luismabr1/luismabr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Luis Manuel, a 27 years old web developer from Venezuela.
 
-Here are some ideas to get you started:
+I'm a entusiastic self-learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Skills
+- 👨‍💻 JavaScript, PHP
+- ⚙️ React, NextJS, Laravel, Wordpress
+- 👁️ CSS, Material UI
+- 💽 MySQL, SQL, Mongo
+
+## Contact
+- [@martonlederer](https://twitter.com/LuismaBR) on Twitter
+- [@martonlederer](www.linkedin.com/in/luismabr) on Linkedin
+
 
