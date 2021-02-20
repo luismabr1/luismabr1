@@ -19,7 +19,7 @@ I'm good learning new stuff, i'm better every day!
 - 👨‍💻 JavaScript, PHP
 - ⚙️ React, NextJS, Laravel, Wordpress
 - 👁️ CSS, Material UI
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL, NoSQL
 
 ## Contact
 - [@LuismaBR](https://twitter.com/LuismaBR) on Twitter
