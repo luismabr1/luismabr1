@@ -23,6 +23,6 @@ I'm good learning new stuff, i'm better every day!
 
 ## Contact
 - [@LuismaBR](https://twitter.com/LuismaBR) on Twitter
-- [@luismabr](www.linkedin.com/in/luismabr) on Linkedin
+- [@luismabr](https://linkedin.com/in/luismabr) on Linkedin
 
 
