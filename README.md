@@ -14,7 +14,7 @@ I'm good learning new stuff, i'm better every day!
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [@martonlederer](https://twitter.com/LuismaBR) on Twitter
-- [@martonlederer](www.linkedin.com/in/luismabr) on Linkedin
+- [@mLuismaBR](https://twitter.com/LuismaBR) on Twitter
+- [@luismabr](www.linkedin.com/in/luismabr) on Linkedin
 
 
