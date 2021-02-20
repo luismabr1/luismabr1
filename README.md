@@ -5,7 +5,7 @@
 ## Hey! 👋
 I'm Luis Manuel, a 27 years old web developer from Venezuela.
 
-I'm a entusiastic self-learning
+I'm good learning new stuff, i'm better every day!
 
 ## Skills
 - 👨‍💻 JavaScript, PHP
