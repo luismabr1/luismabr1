@@ -5,13 +5,13 @@
 ## Hey! 👋
 I'm Luis Manuel, a 27 years old web developer from Venezuela.
 
-I'm good learning new stuff, i'm better every day!
+I'm good at learning new stuff, i'm better every day!
 
 - 🔭 I’m currently working on a new web page for MOVENU International
 - 🌱 I’m currently learning more about web dev and their best practices
 - 💬 Ask me about philosophy and videogames
 - 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: See places where i will like to work boost me to get better and keep learning
+- ⚡ Fun fact: See places where i would like to work boost me to get better and keep learning
 
 ---
 
