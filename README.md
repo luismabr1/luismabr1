@@ -3,11 +3,11 @@
 </h1>
 
 ## Hey! 👋
-I'm Luis Manuel, a 27 years old web developer from Venezuela.
+I'm Luis Manuel, a 28 years old web developer from Venezuela.
 
 I'm good at learning new stuff, i'm better every day!
 
-- 🔭 I’m currently working on a new web page for MOVENU International
+- 🔭 I’m currently working on a Qr Reader
 - 🌱 I’m currently learning more about web dev and their best practices
 - 💬 Ask me about philosophy and videogames
 - ⚡ Fun fact: See places where i would like to work boost me to get better and keep learning
