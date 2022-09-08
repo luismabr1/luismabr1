@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Luis Manuel, a 28 years old web developer from Venezuela.
+I'm Luis Manuel, a 29 years old web developer from Venezuela.
 
 I'm good at learning new stuff, i'm better every day!
 
@@ -17,7 +17,7 @@ I'm good at learning new stuff, i'm better every day!
 ## Skills
 - 👨‍💻 JavaScript, PHP
 - ⚙️ React, NextJS, Laravel, Wordpress
-- 👁️ CSS, Material UI
+- 👁️ CSS, Tailwind
 - 💽 MySQL, SQL, NoSQL
 
 ## Contact
