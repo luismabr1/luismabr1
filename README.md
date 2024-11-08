@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Luis Manuel, a 29 years old web developer from Venezuela.
+I'm Luis Manuel, a 31 years old web developer from Venezuela.
 
 I'm good at learning new stuff, i'm better every day!
 
